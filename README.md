@@ -1,6 +1,6 @@
 # BOHO PEOPLE
 
-🌿 **Live Site:** [BOHO PEOPLE - Live Website](YOUR_LIVE_SITE_LINK_HERE)
+🌿 **Live Site:** [BOHO PEOPLE - Live Website](https://boho-people.web.app)
 
 ## 📖 About the Project
 BOHO PEOPLE is a modern, feature-rich blog website designed for free-spirited individuals to share and explore inspiring content. Built using **React**, **Firebase**, and **MongoDB**, it offers a seamless and engaging user experience with authentication, blog management, and wishlist functionalities.
@@ -12,7 +12,7 @@ BOHO PEOPLE is a modern, feature-rich blog website designed for free-spirited in
 ✅ **Fully Responsive Design** (Mobile, Tablet, Desktop)  
 ✅ **Dynamic Blog System** (Add, Update, Delete Blogs)  
 ✅ **Wishlist Feature** (Save Favorite Blogs)  
-✅ **Comment System** (Users Can Comment on Blogs)  
+✅ **Comment System** (Users Can Comment on Blogs)
 ✅ **Search & Filter Blogs by Category**  
 ✅ **Featured Blogs Page** (Top Blogs Based on Word Count)  
 ✅ **JWT Authentication for Secure Private Routes**  
