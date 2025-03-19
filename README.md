@@ -18,8 +18,8 @@ BOHO PEOPLE is a modern, feature-rich blog website designed for free-spirited in
 ✅ **JWT Authentication for Secure Private Routes**  
 ✅ **Newsletter Subscription with Toast Message**  
 ✅ **404 Page for Invalid Routes**  
-✅ **Framer Motion Animations for a Smooth UI**  
-✅ **Secure API & Environment Variables**  
+✅ **Framer Motion Animations for a Smooth UI**
+✅ **Secure API & Environment Variables**
 
 ---
 ## 🚀 Technologies Used
@@ -144,6 +144,6 @@ We welcome contributions! If you’d like to improve *BOHO PEOPLE*, feel free to
 
 ---
 ## 📩 Contact
-For any queries, reach out at [your.email@example.com](mailto:your.email@example.com).
+For any queries, reach out at [ashagar619@gmail.com.com](mailto:ashagar619@gmail.com).
 
 🛠️ Happy Coding & Stay Boho! 🌿✨
